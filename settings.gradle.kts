@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "FirsPlay"
 include(":app")
-include(":gameEngine2d")
